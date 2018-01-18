@@ -1,0 +1,17 @@
+{
+  "name": "ts-standard",
+  "version": "0.0.1",
+  "description": "standard typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^2.2.43",
+    "@types/node": "^8.0.31",
+    "mocha": "^3.5.3",
+    "typescript": "^2.5.2"
+  }
+}
