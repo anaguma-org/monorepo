@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/mocha": "^2.2.44",
-    "@types/node": "^8.0.31",
+    "@types/node": "^13.13.2",
     "mocha": "^3.5.3",
     "typescript": "^2.5.2"
   }
