@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/mocha@^2.2.44":
-  version "2.2.46"
-  resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.46.tgz#b04713f7759d1cf752effdaae7b3969e285ebc16"
+"@types/mocha@^8.0.2":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-8.0.2.tgz#cdd160767c5a445bedef94ea8cfc8ab760fff42b"
 
 "@types/node@^8.0.31":
   version "8.5.9"
